@@ -1,10 +1,14 @@
-
-import './App.css';
+//DECLARATIONS: componants(about, nav) -------------------
+import Nav from './components/Nav';
+import About from './components/About';
 
 function App() {
   return (
     <div>
-
+      <Nav></Nav>
+      <main>
+        <About></About>
+      </main>
     </div>
   );
 };
