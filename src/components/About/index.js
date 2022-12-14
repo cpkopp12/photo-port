@@ -1,4 +1,4 @@
-//DECLARATIONS: react ----------------------
+//DECLARATIONS: react, img ----------------------
 import React from 'react';
 import coverImage from '../../assets/cover/cover-image.jpg';
 
